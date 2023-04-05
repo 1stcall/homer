@@ -1,6 +1,6 @@
 ---
-title: "Homer Theme"
-subtitle: "Walkx"
+title: "Dashboard"
+subtitle: "1stcall.uk"
 logo: "logo.png"
 
 header: false
@@ -42,24 +42,24 @@ colors:
     background-image: "../assets/wallpaper.jpeg"
 
 services:
-  - name: "//GitHub"
+  - name: "DNS Server"
     icon: "fas fa-github"
     items:
-      - name: "Homer Theme"
+      - name: "Technitium DNS Server"
         logo: "assets/tools/walkx.png" # Change github.png to the name of your own custom icon!
-        subtitle: "The official Homer Theme github!"
-        tag: "github"
+        subtitle: "My Technitium DNS Server ns1.1stcall.uk"
+        tag: "dns"
         tagstyle: "is-primary" # This will display the is-primary color! Try changing it to; is-link, is-info, is-success, is-warning or is-danger!
-        url: "https://github.com/WalkxCode/Homer-Theme"
+        url: "http://ns1.1stcall.uk"
         target: "_blank"
 
-  - name: "//Reddit"
-    icon: "fas fa-reddit"
-    items:
-      - name: "The original reddit post!"
-        logo: "assets/tools/reddit.png"
-        subtitle: "Yes... this is Homer."
-        tag: "reddit"
-        tagstyle: "is-info"
-        url: "https://www.reddit.com/r/selfhosted/comments/q9e82c/yes_this_is_homer_yes_i_spent_2_hours_customizing/"
-        target: "_blank"
+  #- name: "//Reddit"
+  #  icon: "fas fa-reddit"
+  #  items:
+  #    - name: "The original reddit post!"
+  #      logo: "assets/tools/reddit.png"
+  #      subtitle: "Yes... this is Homer."
+  #      tag: "reddit"
+  #      tagstyle: "is-info"
+  #      url: "https://www.reddit.com/r/selfhosted/comments/q9e82c/yes_this_is_homer_yes_i_spent_2_hours_customizing/"
+  #      target: "_blank"
