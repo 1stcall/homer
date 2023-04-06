@@ -53,6 +53,17 @@ services:
         url: "http://ns1.1stcall.uk"
         target: "_blank"
 
+  - name: "My github"
+    icon: "fas fa-github"
+    items:
+      - name: "github.com"
+        logo: "assets/tools/walkx.png" # Change github.png to the name of your own custom icon!
+        subtitle: "my github"
+        tag: "github"
+        tagstyle: "is-primary" # This will display the is-primary color! Try changing it to; is-link, is-info, is-success, is-warning or is-danger!
+        url: "http://github.com/1stcall"
+        target: "_blank"
+
   #- name: "//Reddit"
   #  icon: "fas fa-reddit"
   #  items:
